@@ -6,7 +6,7 @@ To learn how to use it, click [here](#how-to-use-batcalculator).
 # Interface
 The interface is so cool, you couldn't even resist it.
 
-It's cool scheme is a banger. So, the app could be cool, but if you want to show some further support to my projects and even me for making these projects, test out the new **Like And Dislike Kelnet** app for yourself, name it any project name of what you want to give support or if you want to give support to me, put IgnacioCodesPython. That's me! Then, say like or dislike, and then give it a rating, and a message will appear with what rating you gave.
+It's cool scheme is a banger. So, the app could be cool, but if you want to show some further support to my projects and even me for making these projects, test out the new **Like And Dislike Kelnet** (*coming soon*) app for yourself, name any project name of what you want to give support or if you want to give support to me, put IgnacioCodesPython. That's me! Then, say like or dislike, and then give it a rating, and a message will appear with what rating you gave.
 
 Okay, now after a long time of explaining the cool interface, scheme and app, let's see how to use it.
 
@@ -24,4 +24,4 @@ If you do the example calculation: **45 + 5** it would show:
 ```
 
 # The end
-We hope that made you learn about the app and math examples! Let's start using it! Download the **HTML** file to get started!
+We hope that made you learn about the app and math examples! Let's start using it! Download the **HTML, JS and CSS** files to get started!
